@@ -6,7 +6,7 @@ Nahral jsem tri slozky:
 
 2) React-app tady je react apka pro CRUD operace
 
-3) Publish - tady jsem knihovna pro spusteni web api
+3) Publish - tady je knihovna pro spusteni web api
 
 ## Instalace
 
