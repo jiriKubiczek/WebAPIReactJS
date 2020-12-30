@@ -10,12 +10,12 @@ Nahral jsem tri slozky:
 
 ## Instalace
 
-Stahni si k sobe na lokal komplet zip balik z github a rozbal. Po rozbaleni najdes u vyse popsanych slozek taky start.bat file. Staci doubleclick a spusti se ti jak web api vytvoreny v .net tak taky react appka - mel by se ti otevrit prohlizec se strankou localhost://3000 - muzes zacit vytvaret Customera.
+Stahni si k sobe na lokal komplet zip balik z github a rozbal. Po rozbaleni otevri slozku WebAPIReactJS-master a spust start.bat file. Mel by se ti otevrit prohlizec se strankou localhost://3000 - muzes zacit vytvaret Customera.
 
 
-Ze ti jede web api, zjistis taky tak, ze si v prohlizeci otevres stranku localhost://5000/api/api, nejdrive ale musis spustit start.bat
+Ze ti jede web api z .net, zjistis taky tak, ze si v prohlizeci otevres stranku localhost://5000/api/api
 
-Pak by si mel by si mel videt prazdne pole:
+Mel by si tam videt prazdne pole:
 
 ```bash
 []
